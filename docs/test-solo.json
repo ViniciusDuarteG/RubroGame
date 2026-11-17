@@ -1,0 +1,24 @@
+{
+  "bot_count": true,
+  "bots_capture": true,
+  "bots_combat": true,
+  "bots_recapture": true,
+  "idle_human_match_finishes": true,
+  "metrics": {
+    "captures": 4,
+    "contested": 2,
+    "deaths": 165,
+    "jeep_destroyed": 0,
+    "jeep_respawns": 0,
+    "recaptures": 1,
+    "spawns": 175
+  },
+  "ok": true,
+  "seconds": 163.66666666666,
+  "solo_1_human_15_bots": true,
+  "starts_at_menu": true,
+  "tickets": [
+    0,
+    2
+  ]
+}

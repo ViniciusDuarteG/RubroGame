@@ -1,0 +1,38 @@
+{
+  "capture_neutral": true,
+  "contested_pauses": true,
+  "driver_entry": true,
+  "enemy_neutralize_recapture": true,
+  "engineer_repairs": true,
+  "engineer_rocket_hits_vehicle": true,
+  "jeep_base_respawn": true,
+  "jeep_destroy_kills_occupant_once": true,
+  "lost_spawn_falls_back": true,
+  "majority_bleeds": true,
+  "medic_heals": true,
+  "metrics": {
+    "captures": 0,
+    "contested": 0,
+    "deaths": 0,
+    "jeep_destroyed": 0,
+    "jeep_respawns": 0,
+    "recaptures": 0,
+    "spawns": 16
+  },
+  "ok": true,
+  "passenger_entry": true,
+  "prone_stance": true,
+  "protected_base": true,
+  "reload_conserves_ammo": true,
+  "rematch_resets": true,
+  "result_screen": true,
+  "return_menu": true,
+  "safe_exit": true,
+  "seconds": 0,
+  "sprint_uses_stamina": true,
+  "stance_restores": true,
+  "tickets": [
+    100,
+    100
+  ]
+}

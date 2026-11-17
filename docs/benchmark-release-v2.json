@@ -1,0 +1,19 @@
+{
+  "average_draw_calls": 96.2661507402423,
+  "average_fps": 99.0316730969644,
+  "canvas_size": "(1440.0, 900.0)",
+  "cpu": "Intel(R) Celeron(R) N4020 CPU @ 1.10GHz",
+  "duration_s": 35.012,
+  "frames": 2972,
+  "gpu": "Mesa Intel(R) UHD Graphics 600 (GLK 2)",
+  "label": "release-v2",
+  "p99_frame_ms": 32.3476666666667,
+  "physics_ms": 11.0689653432033,
+  "process_ms": 24.5706187752353,
+  "quality": 0,
+  "render_scale": 0.800000011920929,
+  "renderer": "Compatibility",
+  "static_memory_mb": 0.0,
+  "warmup_s": 5,
+  "window_size": "(960, 600)"
+}

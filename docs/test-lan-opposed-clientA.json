@@ -1,0 +1,28 @@
+{
+  "capture_replication": true,
+  "capture_synced": true,
+  "chosen_team": true,
+  "ip_join_and_roster": true,
+  "jeep_destruction_synced": true,
+  "metrics": {
+    "captures": 1,
+    "contested": 0,
+    "deaths": 2,
+    "jeep_destroyed": 1,
+    "jeep_respawns": 0,
+    "recaptures": 0,
+    "spawns": 18
+  },
+  "ok": true,
+  "prone_replication": true,
+  "prone_synced": true,
+  "result_replication": true,
+  "seconds": 39.066666666667,
+  "stamina_replication": true,
+  "stamina_synced": true,
+  "tickets": [
+    100,
+    0
+  ],
+  "vehicle_replication": true
+}

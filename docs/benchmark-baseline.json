@@ -1,0 +1,14 @@
+{
+  "average_draw_calls": 925.037449392713,
+  "average_fps": 33.5675772900073,
+  "cpu": "Intel(R) Celeron(R) N4020 CPU @ 1.10GHz",
+  "duration_s": 35.019,
+  "frames": 988,
+  "gpu": "Mesa Intel(R) UHD Graphics 600 (GLK 2)",
+  "label": "baseline",
+  "p99_frame_ms": 106.015333333333,
+  "render_size": "(1440.0, 900.0)",
+  "renderer": "Compatibility",
+  "static_memory_mb": 54.0193948745728,
+  "warmup_s": 5
+}

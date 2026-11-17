@@ -1,0 +1,24 @@
+{
+  "authoritative_jeep_destroyed": true,
+  "host_plus_two_human_slots": true,
+  "lan_16_slots": true,
+  "metrics": {
+    "captures": 1,
+    "contested": 0,
+    "deaths": 2,
+    "jeep_destroyed": 1,
+    "jeep_respawns": 0,
+    "recaptures": 0,
+    "spawns": 18
+  },
+  "ok": true,
+  "remote_client_captures": true,
+  "remote_driver_moves_jeep": true,
+  "remote_jeep_entry": true,
+  "remote_respawn_request": true,
+  "seconds": 39.1000000000003,
+  "tickets": [
+    100,
+    0
+  ]
+}
